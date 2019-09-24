@@ -9,7 +9,6 @@
 
 ## Running the app
     Scripts:
-        "test": "jest --verbose --coverage",
         "lint": "eslint '**/*.js'",
         "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
 
