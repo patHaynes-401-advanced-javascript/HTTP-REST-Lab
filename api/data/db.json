@@ -1,0 +1,51 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "Kenobi",
+      "type": "aussie shepard"
+    },
+    {
+      "_id": 2,
+      "name": "Summit",
+      "type": "mut"
+    },
+    {
+      "_id": 3,
+      "name": "Harvey",
+      "type": "french bulldog"
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "name": "bone",
+      "isSqueaky": false
+    },
+    {
+      "_id": 2,
+      "name": "stuffed sheep",
+      "isSqueaky": true
+    },
+    {
+      "_id": 3,
+      "name": "rope",
+      "isSqueaky": false
+    },
+    {
+      "_id": 4,
+      "name": "rubber duck",
+      "isSqueaky": true
+    },
+    {
+      "_id": 5,
+      "name": "tennis ball",
+      "isSqueaky": false
+    }
+  ],
+  "profile": {
+    "_id": 1,
+    "name": "Pat",
+    "favoriteDogs": [1, 3]
+  }
+}
